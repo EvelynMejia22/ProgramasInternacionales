@@ -4,4 +4,4 @@ pandas
 numpy
 matplotlib
 plotly.express
-streamlit option_menu
+streamlit_option_menu
